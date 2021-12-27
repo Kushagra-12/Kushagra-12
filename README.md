@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Kushagra-12
+- 👀 I’m interested in data Science, Data Analysis, Machine Learning, data visualization.
+- 🌱 I’m currently learning Excel, Sql, Machine Learning, python for data science
+- 💞️ I’m looking to collaborate on ML- Projects
+- 📫 How to reach me - kushagrapathak128@gmail.com
